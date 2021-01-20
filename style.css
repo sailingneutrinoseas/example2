@@ -183,7 +183,7 @@ h2 {
   .sci {
     left: 40px;
   }
-  .content {
+  .section {
     flex-direction: column;
   }
   .textBox,
