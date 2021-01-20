@@ -225,6 +225,7 @@ h2 {
     background: #e51e2a;
 
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     z-index: 10;
   }
